@@ -16,7 +16,7 @@ django-extensions==2.1.6
 django-postgrespool==0.3.0
 django-scheduler==0.8.8
 feedparser==5.2.1
-gunicorn==19.4.5
+gunicorn==19.5.0
 icalendar==4.0.3
 idna==2.7
 multidict==4.5.2
